@@ -341,11 +341,20 @@ hr {
     }
 
     #we_design p {
-        font-size: 2 0px;
+        font-size: 13px;
+    }
+
+    #we_design h1 {
+        font-size: 28px;
     }
 
     .barra img{
-        width: 50px;
+        width: 45px;
     }
+
+    #cont_work p,
+    #cont_appcompany {
+    width: 90%;
+}
 
 }
