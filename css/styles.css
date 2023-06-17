@@ -363,10 +363,9 @@ hr {
     #cont_work p,
     #cont_appcompany {
     width: 90%;
-}
-footer {
-    flex-direction: row;
+    }
     
-}
-
+    footer {
+        flex-direction: row;
+    }
 }
